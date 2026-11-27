@@ -12,6 +12,7 @@ dependencies = [
     "dotenv>=0.9.9",
     "langchain-nvidia-ai-endpoints>=0.3.19",
     "langgraph>=0.6.11",
+    "rich>=15.0.0",
 ]
 
 [project.scripts]
